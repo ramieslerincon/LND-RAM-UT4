@@ -1,0 +1,51 @@
+
+    <?xml version=»1.0″ encoding=»UTF-8″ ?>
+    <rss version =»2.0″>
+
+<channel>
+
+<title>Concursos del gobierno</title>
+<link></link>
+<description>Sale a concurso, proyectos mediambientales </description>
+<copyright>CC 4.0 – BY-SA<copyright>
+
+<category> PROYECTOS </category>
+<category> MEDIOAMBIENTE </category>
+
+
+<item>
+
+<title>Proyecto ecologico</title>
+<link></link>
+<description>
+
+Uno de los proyectos ecológicos más importantes en la actualidad es la reforestación de áreas degradadas. Esta actividad consiste en plantar árboles y restaurar la vegetación en terrenos que han sido afectados por la deforestación, la minería, la urbanización, entre otros factores.
+
+La reforestación es fundamental para mitigar el cambio climático, ya que los árboles absorben dióxido de carbono de la atmósfera y lo transforman en oxígeno. Además, los bosques son el hogar de muchas especies animales y vegetales, por lo que su restauración ayuda a preservar la biodiversidad.
+
+Existen muchos proyectos de reforestación en todo el mundo, en los que participan organizaciones ambientales, empresas y comunidades locales. Estos proyectos también tienen un impacto social y económico positivo, ya que generan empleo y mejoran la calidad de vida de las personas que habitan en las áreas restauradas.
+
+
+En resumen, la reforestación es un proyecto ecológico clave para proteger nuestro planeta y preservar la vida en la Tierra.</description>
+
+<author>Antonio Medina</author>
+<pubDate>Thu, 12 Sep 2017</pubDate>
+<enclosure url="" type=»audio/ogg» length=»300″ />
+
+</item>
+
+<title>Proyecto instalación placa solares</title>
+
+<link></link>
+<description>Instalacion de placas solares , proyecto de presentación.</description>
+
+<author></author>
+<pubDate>Thu, 17 Sep 2020</pubDate>
+<enclosure url="" type=»audio/ogg» length=»300″ />
+
+</item>
+
+</channel>
+
+
+</rss>
